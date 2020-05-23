@@ -1,0 +1,12 @@
+name: mtcar_app
+title: mtcar_app
+username:
+account: tusharmahajan21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2347348
+bundleId: 3182784
+url: https://tusharmahajan21.shinyapps.io/mtcar_app/
+when: 1590271310.77091
+asMultiple: FALSE
+asStatic: FALSE
